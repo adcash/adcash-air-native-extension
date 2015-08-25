@@ -25,6 +25,7 @@ And the requirements are:
 
 ### Integrate the Native Extension
 Download the `Adcash.ane` file [here](https://github.com/adcash/adcash-air-native-extension) and add it to your application as a **native extension** by following these steps:
+
 1. Right-click on your project and select **Properties**. 
     
     Navigate to **Flex Build Path > Native Extensions**, select **Add ANE...** and browse to the `Adcash.ane` to add it:
